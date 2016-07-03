@@ -9,7 +9,7 @@
 title: The UX Thinker
 email: matt@theuxthinker.com
 description: > # this means to ignore newlines until "baseurl:"
-  Matt Johnson is a Senior UX Designer and Developer at Visual Logic in Waterloo Iowa.
+  Matt Johnson is a Senior UX Designer and Developer in Waterloo Iowa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://uxthinker.github.io" # the base hostname & protocol for your site
 twitter_username: themattj
